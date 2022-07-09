@@ -22,7 +22,7 @@ Modes: exam, course (change accordingly in config.json)
 10. filename
 11. mode
 
-#### course
+#### course mode
 1. username
 2. password
 3. filename
