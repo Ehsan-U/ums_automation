@@ -27,3 +27,5 @@ Modes: exam, course (change accordingly in config.json)
 2. password
 3. filename
 4. mode
+
+> :warning: **dummy.xlsx file format must be same**: Be very careful here!
